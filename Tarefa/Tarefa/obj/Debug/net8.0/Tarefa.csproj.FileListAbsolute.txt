@@ -1,0 +1,14 @@
+/home/nicolas/RiderProjects/Tarefa/Tarefa/bin/Debug/net8.0/Tarefa
+/home/nicolas/RiderProjects/Tarefa/Tarefa/bin/Debug/net8.0/Tarefa.deps.json
+/home/nicolas/RiderProjects/Tarefa/Tarefa/bin/Debug/net8.0/Tarefa.runtimeconfig.json
+/home/nicolas/RiderProjects/Tarefa/Tarefa/bin/Debug/net8.0/Tarefa.dll
+/home/nicolas/RiderProjects/Tarefa/Tarefa/bin/Debug/net8.0/Tarefa.pdb
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.AssemblyInfoInputs.cache
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.AssemblyInfo.cs
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.csproj.CoreCompileInputs.cache
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.dll
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/refint/Tarefa.dll
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.pdb
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.genruntimeconfig.cache
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/ref/Tarefa.dll
