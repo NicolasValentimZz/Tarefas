@@ -12,3 +12,4 @@
 /home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.pdb
 /home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.genruntimeconfig.cache
 /home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/ref/Tarefa.dll
+/home/nicolas/RiderProjects/Tarefa/Tarefa/obj/Debug/net8.0/Tarefa.sourcelink.json
